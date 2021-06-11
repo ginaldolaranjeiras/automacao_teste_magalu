@@ -1,6 +1,6 @@
 # Projeto de Automação do Site Magalu
 
-# Este projeto possui uma estrutura simplificada para fins didáticos
+### Este projeto possui uma estrutura simplificada para fins didáticos
 
 ## Projeto de Automação de Testes BDD
 
