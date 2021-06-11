@@ -6,7 +6,7 @@
 * Linguagem Python
 * Framework BDD Behave
 * Selenium
-* Allure Report
+* Allure Framework
 
 
 
@@ -81,11 +81,39 @@ Você pode adicionar Hooks adicionando um arquivo _environment.py_ na pasta [fea
 Você pode aplicar o padrão Page Objects criando [modelos](features/pages/magalu_page.py) e abstraindo os métodos de teste.
 
 
-## Gerando reports com [Allure FRamework](https://docs.qameta.io/allure/)
+## Gerando reports com [Allure Framework](https://docs.qameta.io/allure/)
 
-*Copyright*
+##*Copyright*
 The Allure reference guide is available as HTML documents. The latest copy is available at https://docs.qameta.io/allure/
 
 Copies of this document may be made for your own use and for distribution to others, provided that you do not charge any fee for such copies and further provided that each copy contains this Copyright Notice, whether distributed in print or electronically.
+
+## Preparando configuração do Allure Framework
+
+## Instalação do [Java Runtime Environment (JRE)](https://www.java.com/pt-BR/download/manual.jsp).
+
+## Instação do [Open JDK](https://openjdk.java.net/)
+
+Baixe o JDK e descompacte os arquivos dentro do diretório Program Files
+
+É preciso ainda configurar o JAVA_HOME nas variáveis de ambiente do Windows, com o caminho para o diretório do JDK descompactado.
+
+## Instalação do [Allure Framework](https://docs.qameta.io/allure/#_get_started).
+
+Baixe o gerenciador de pacotes [Scoop](https://scoop.sh/)
+
+Intale o Allure executando: _scoop install allure_
+
+## Instale o [allure-behave](https://pypi.org/project/allure-behave/)
+
+No ambiente virtual do seu projeto execute: _pip install allure-behave_
+
+
+# Gerando reports com  [Allure Framework](https://docs.qameta.io/allure/)
+
+## Execute: _behave -f allure_behave.formatter:AllureFormatter -o report ./features_
+
+Os testes devem sere executados e o resultado salvo na pasta [report]https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/report.
+
 
 
