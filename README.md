@@ -40,18 +40,21 @@ No ambiente virtual ativado, através do comando [pip](https://docs.python.org/3
 
 ## Instale o webdriver correspondente ao navegador de teste, compatível com o sistema operacional e com o navegador utilizado
 
-No caso do Chrome, baixar e descompactar o [ChromeDriver](https://chromedriver.chromium.org/home).
+No caso do Chrome, baixar e descompactar o [ChromeDriver](https://chromedriver.chromium.org/home) e salve no diretório do projeto.
 
 
 # Configurando o Projeto
 
-## Adicionando suporte à escrita do Gherkin(GWT) em portuguÊs.
+## Adicionando suporte à escrita do Gherkin(GWT) em português.
 
 Na pasta raíz do projeto, criar um arquivo _behave.ini_ .
 
-Adicionar configuração da linguagem no arquivo [_behave.ini_](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/blob/93c683ef1e2503651dee4d722cd46fadf7859f9e/behave.ini).
+Adicionar configuração da linguagem em português para os arquivos .feature no arquivo [_behave.ini_](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/blob/93c683ef1e2503651dee4d722cd46fadf7859f9e/behave.ini).
 
 
+## Crie um diretório chamado [_features_](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features). 
+
+##Crie um diretório chamado [_steps_](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features/steps) dentro do diretório [features](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features).
 
 
 
