@@ -113,9 +113,11 @@ No ambiente virtual do seu projeto execute: _pip install allure-behave_
 
 # Gerando reports com  [Allure Framework](https://docs.qameta.io/allure/)
 
-## Execute: _behave -f allure_behave.formatter:AllureFormatter -o report ./features_
+## Execute o behave com allure framework
 
-Os testes devem sere executados e o resultado salvo na pasta [report]https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/report.
+Execute: _behave -f allure_behave.formatter:AllureFormatter -o report ./features_
+
+Os testes devem sere executados e o resultado salvo na pasta [report](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/report).
 
 
 
