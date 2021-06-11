@@ -51,8 +51,7 @@ Na pasta raíz do projeto, criar um arquivo _behave.ini_ .
 
 Adicionar configuração da linguagem no arquivo _behave.ini_.
 
-> [behave] 
-> lang = pt
+cat https://github.com/ginaldolaranjeiras/automacao_teste_magalu/blob/93c683ef1e2503651dee4d722cd46fadf7859f9e/behave.ini
 
 
 
