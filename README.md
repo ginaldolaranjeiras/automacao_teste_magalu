@@ -119,5 +119,17 @@ Execute: _behave -f allure_behave.formatter:AllureFormatter -o report ./features
 
 Os testes devem sere executados e o resultado salvo na pasta [report](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/report).
 
+## Exiba a página de relatórios
 
+Execute: _allure serve report_
+
+O navegador deve exibir o relatório
+![serve-allure](https://user-images.githubusercontent.com/50729163/121743576-ee510a80-cad7-11eb-9ebf-c35b834d8af0.jpg)
+
+A execução é detalhada
+![serve-allure-behaviors](https://user-images.githubusercontent.com/50729163/121743615-0032ad80-cad8-11eb-923a-56b4ca9e8fe3.jpg)
+
+## Salve o conteúdo do relatório
+
+É possível salvar o [conteúdo do relatório](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/allure-report) executando: allure generate report
 
