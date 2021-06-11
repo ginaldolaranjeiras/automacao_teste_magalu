@@ -51,7 +51,7 @@ Na pasta raíz do projeto, criar um arquivo _behave.ini_ .
 
 Adicionar configuração da linguagem no arquivo _behave.ini_.
 
-[behave]
+[behave] \n
 lang = pt
 
 
