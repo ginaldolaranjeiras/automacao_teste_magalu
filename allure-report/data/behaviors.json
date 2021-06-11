@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Buscar produto",
+    "children" : [ {
+      "name" : "Deve retornar a busca de um item",
+      "uid" : "5e464e564d5cc4ce",
+      "parentUid" : "f895fcfab634a3b9769513b5f274c1db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623393203954,
+        "stop" : 1623393221245,
+        "duration" : 17291
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f895fcfab634a3b9769513b5f274c1db"
+  } ]
+}

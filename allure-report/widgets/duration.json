@@ -1,0 +1,11 @@
+[ {
+  "uid" : "5e464e564d5cc4ce",
+  "name" : "Deve retornar a busca de um item",
+  "time" : {
+    "start" : 1623393203954,
+    "stop" : 1623393221245,
+    "duration" : 17291
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

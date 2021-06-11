@@ -1,0 +1,117 @@
+{
+  "uid" : "5e464e564d5cc4ce",
+  "name" : "Deve retornar a busca de um item",
+  "fullName" : "Buscar produto: Deve retornar a busca de um item",
+  "historyId" : "d93bd5bed21cfcb3ec08d6e9c741c8bf",
+  "time" : {
+    "start" : 1623393203954,
+    "stop" : 1623393221245,
+    "duration" : 17291
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Dado que estou na página inicial do Magalu",
+      "time" : {
+        "start" : 1623393203964,
+        "stop" : 1623393212075,
+        "duration" : 8111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Quando digito o termo \"panela de pressão\"",
+      "time" : {
+        "start" : 1623393212076,
+        "stop" : 1623393212216,
+        "duration" : 140
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "E clico em Buscar",
+      "time" : {
+        "start" : 1623393212216,
+        "stop" : 1623393221188,
+        "duration" : 8972
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Então sou direcionado para a página de resultados",
+      "time" : {
+        "start" : 1623393221189,
+        "stop" : 1623393221245,
+        "duration" : 56
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "funcional"
+  }, {
+    "name" : "feature",
+    "value" : "Buscar produto"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "funcional" ]
+  },
+  "source" : "5e464e564d5cc4ce.json",
+  "parameterValues" : [ ]
+}
