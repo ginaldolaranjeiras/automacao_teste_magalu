@@ -45,4 +45,15 @@ No caso do Chrome, baixar e descompactar o [ChromeDriver](https://chromedriver.c
 
 # Configurando o Projeto
 
+## Adicionando suporte à escrita do Gherkin(GWT) em portuguÊs.
+
+Na pasta raíz do projeto, criar um arquivo _behave.ini_ .
+
+Adicionar configuração da linguagem no arquivo _behave.ini_.
+
+[behave]
+lang = pt
+
+
+
 
