@@ -29,3 +29,9 @@ Crie um diretório no cmd:   *mkdir nome_do_diretorio*
 Crie um ambiente virtual no cmd:  *python -m venv c:\path\to\nome_do_diretorio*
 
 Ative seu ambiente virtual a partir do cmd:  _c:\path\to\nome_do_diretorio> **Scripts\activate.bat**_
+
+## Instale o [Behave](https://behave.readthedocs.io/en/stable/index.html)
+
+No ambiente virtual ativado, através do [pip](https://docs.python.org/3/tutorial/venv.html?highlight=pip), pelo cmd: _pip install behave_
+
+
