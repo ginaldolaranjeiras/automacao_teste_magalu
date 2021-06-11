@@ -130,6 +130,10 @@ O navegador deve exibir o relatório
 A execução é detalhada
 ![serve-allure-behaviors](https://user-images.githubusercontent.com/50729163/121743615-0032ad80-cad8-11eb-923a-56b4ca9e8fe3.jpg)
 
+Com gráficos
+![Uploading serve-allure-graf.jpg…]()
+
+
 ## Salve o conteúdo do relatório
 
 É possível salvar o [conteúdo do relatório](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/allure-report) executando: allure generate report
