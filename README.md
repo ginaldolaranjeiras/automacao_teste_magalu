@@ -131,7 +131,8 @@ A execução é detalhada
 ![serve-allure-behaviors](https://user-images.githubusercontent.com/50729163/121743615-0032ad80-cad8-11eb-923a-56b4ca9e8fe3.jpg)
 
 Com gráficos
-![Uploading serve-allure-graf.jpg…]()
+![serve-allure-graf](https://user-images.githubusercontent.com/50729163/121750128-32490d00-cae2-11eb-99e9-b7bcddd84809.jpg)
+
 
 
 ## Salve o conteúdo do relatório
