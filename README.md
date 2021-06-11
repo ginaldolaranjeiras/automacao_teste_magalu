@@ -38,4 +38,11 @@ No ambiente virtual ativado, através do comando [pip](https://docs.python.org/3
 
 No ambiente virtual ativado, através do comando [pip](https://docs.python.org/3/tutorial/venv.html?highlight=pip), pelo cmd: _pip install selenium_
 
+## Instale o webdriver correspondente ao navegador de teste, compatível com o sistema operacional e com o navegador utilizado
+
+No caso do Chrome, baixar e descompactar o [ChromeDriver](https://chromedriver.chromium.org/home).
+
+
+# Configurando o Projeto
+
 
