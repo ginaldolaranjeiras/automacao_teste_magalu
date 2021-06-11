@@ -29,4 +29,4 @@ Crie um diretório no cmd *mkdir nome_do_diretorio*
 
 Crie um ambiente virtual no cmd *python -m venv c:\path\to\nome_do_diretorio*
 
-Ative seu ambiente virtual a partir do cmd *c:\path\to\nome_do_diretorio> **Scripts\activate.bat** *
+Ative seu ambiente virtual a partir do cmd _c:\path\to\nome_do_diretorio> **Scripts\activate.bat**_
