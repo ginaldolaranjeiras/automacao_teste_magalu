@@ -40,7 +40,7 @@ No ambiente virtual ativado, através do comando [pip](https://docs.python.org/3
 
 ## Instale o webdriver correspondente ao navegador de teste, compatível com o sistema operacional e com o navegador utilizado
 
-No caso do Chrome, baixar e descompactar o [ChromeDriver](https://chromedriver.chromium.org/home) e salve no diretório do projeto.
+No caso do Chrome, baixar e descompactar o executável do [ChromeDriver](https://chromedriver.chromium.org/home) e salve no diretório do projeto.
 
 
 # Configurando o Projeto
@@ -59,3 +59,13 @@ Escreva os cenários nos arquivos com extensão [_.feature_](features/busca_prod
 ## Crie um diretório chamado [_steps_](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features/steps) dentro do diretório [features](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features).
 
 Crie os arquivos de implementação das [steps](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features/steps) dentro do diretório [features] com a extenção [_.py_](features/steps/busca_produto.py).
+
+## Executando as features com o comando _behave_.
+
+No cmd digite o comando: _behave_ para executar os cenários.
+
+O log dará o modelo das steps não implementadas
+
+![implemente-me](https://user-images.githubusercontent.com/50729163/121734611-6107b900-cacb-11eb-9118-00c0f997d899.jpg)
+
+Copie a implementação no [arquivo .py](features/steps/busca_produto.py) em steps
