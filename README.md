@@ -54,7 +54,8 @@ Adicionar configuração da linguagem em português para os arquivos .feature no
 
 ## Crie um diretório chamado [_features_](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features). 
 
-##Crie um diretório chamado [_steps_](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features/steps) dentro do diretório [features](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features).
+Escreva os cenários nos arquivos com extensão [_.feature_](features/busca_produto.feature) dentro do diretório [features](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features).
 
+## Crie um diretório chamado [_steps_](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features/steps) dentro do diretório [features](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features).
 
 
