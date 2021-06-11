@@ -58,4 +58,4 @@ Escreva os cenários nos arquivos com extensão [_.feature_](features/busca_prod
 
 ## Crie um diretório chamado [_steps_](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features/steps) dentro do diretório [features](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features).
 
-
+Crie os arquivos de implementação das [steps](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features/steps) dentro do diretório [features] com a extenção [_.py_](features/steps/busca_produto.py).
