@@ -7,3 +7,12 @@
 * Framework BDD Behave
 * Selenium
 * Allure Report
+
+
+
+
+# Configurando o ambiente
+
+
+##* Intalação do Python
+##* Criação de um ambiente virtual Python
