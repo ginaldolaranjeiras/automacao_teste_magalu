@@ -73,7 +73,7 @@ O log dará o modelo das steps não implementadas
 
 Copie a implementação no [arquivo .py](features/steps/busca_produto.py) em steps
 
-Implemente os [métodos do Selenium](features/steps/busca_produto.py) na implementação.
+Implemente os [métodos do Selenium](features/steps/busca_produto.py).
 
 Execute novamente o comando: __behave__
 
