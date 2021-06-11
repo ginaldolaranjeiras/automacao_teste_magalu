@@ -81,9 +81,9 @@ Você pode adicionar Hooks adicionando um arquivo _environment.py_ na pasta [fea
 Você pode aplicar o padrão Page Objects criando [modelos](features/pages/magalu_page.py) e abstraindo os métodos de teste.
 
 
-## Gerando reports com [Allure Framework](https://docs.qameta.io/allure/)
+# Gerando reports com [Allure Framework](https://docs.qameta.io/allure/)
 
-##*Copyright*
+## *Copyright*
 The Allure reference guide is available as HTML documents. The latest copy is available at https://docs.qameta.io/allure/
 
 Copies of this document may be made for your own use and for distribution to others, provided that you do not charge any fee for such copies and further provided that each copy contains this Copyright Notice, whether distributed in print or electronically.
