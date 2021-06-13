@@ -22,8 +22,8 @@ class MagaluPage:
         button = self.driver.find_element_by_id(id).click()
         return button
 
-    def check_elements(self, id):
-        elements = self.driver.find_elements_by_xpath(id)
+    def check_elements(self, xpath):
+        elements = self.driver.find_elements_by_xpath(xpath)
         assert type(elements) is list
         assert elements is not null
         return elements

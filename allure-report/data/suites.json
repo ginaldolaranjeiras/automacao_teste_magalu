@@ -3,7 +3,7 @@
   "name" : "suites",
   "children" : [ {
     "name" : "Deve retornar a busca de um item",
-    "uid" : "5e464e564d5cc4ce",
+    "uid" : "6a30bf4895d8a81c",
     "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
     "status" : "passed",
     "time" : {

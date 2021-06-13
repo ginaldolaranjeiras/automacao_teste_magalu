@@ -5,7 +5,7 @@
     "name" : "Buscar produto",
     "children" : [ {
       "name" : "Deve retornar a busca de um item",
-      "uid" : "5e464e564d5cc4ce",
+      "uid" : "6a30bf4895d8a81c",
       "parentUid" : "f895fcfab634a3b9769513b5f274c1db",
       "status" : "passed",
       "time" : {

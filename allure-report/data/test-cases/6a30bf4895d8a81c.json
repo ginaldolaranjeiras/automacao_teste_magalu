@@ -1,5 +1,5 @@
 {
-  "uid" : "5e464e564d5cc4ce",
+  "uid" : "6a30bf4895d8a81c",
   "name" : "Deve retornar a busca de um item",
   "fullName" : "Buscar produto: Deve retornar a busca de um item",
   "historyId" : "d93bd5bed21cfcb3ec08d6e9c741c8bf",
@@ -25,10 +25,10 @@
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 0,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
     }, {
       "name" : "Quando digito o termo \"panela de pressão\"",
       "time" : {
@@ -40,10 +40,10 @@
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 0,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
     }, {
       "name" : "E clico em Buscar",
       "time" : {
@@ -55,10 +55,10 @@
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 0,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
     }, {
       "name" : "Então sou direcionado para a página de resultados",
       "time" : {
@@ -70,17 +70,17 @@
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "shouldDisplayMessage" : false,
-      "attachmentsCount" : 0,
       "stepsCount" : 0,
-      "hasContent" : false
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "shouldDisplayMessage" : false,
-    "attachmentsCount" : 0,
     "stepsCount" : 4,
-    "hasContent" : true
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -112,6 +112,6 @@
     "categories" : [ ],
     "tags" : [ "funcional" ]
   },
-  "source" : "5e464e564d5cc4ce.json",
+  "source" : "6a30bf4895d8a81c.json",
   "parameterValues" : [ ]
 }
