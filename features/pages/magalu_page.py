@@ -47,4 +47,4 @@ class MagaluPage:
         self.driver.find_element_by_class_name(e_class).click()
 
     def check_element(self, xpath):
-        self.driver.find_element_by_xpath()
+        self.driver.find_element_by_xpath(xpath)
