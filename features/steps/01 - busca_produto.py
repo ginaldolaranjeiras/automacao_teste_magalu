@@ -6,11 +6,9 @@ import time
 @given(u'que estou na página inicial do Magalu')
 def step_impl(context):
     context.driver = MagaluPage(
-        "https://www.magazineluiza.com.br/",
         "drivers\chromedriver.exe"
         )
-    context.driver.open_page()
-
+    context.driver.open_page("https://www.magazineluiza.com.br/")
 
 
 @when(u'digito o termo "panela de pressão"')

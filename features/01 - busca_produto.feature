@@ -3,7 +3,7 @@ Funcionalidade: Buscar produto
     Quero pesquisar um produto
     Para encontré-lo no site
 
-    @funcional
+    @funcional @buscar-produto
     Cenário: Deve retornar a busca de um item
         Dado que estou na página inicial do Magalu
         Quando digito o termo "panela de pressão"
