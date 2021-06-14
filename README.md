@@ -79,7 +79,7 @@ Execute novamente o comando: __behave__
 
 Os testes devem executar com sucesso.
 
-Você pode adicionar Hooks adicionando um arquivo _environment.py_ na pasta [features](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features).
+Você pode adicionar Hooks adicionando um arquivo [_environment.py_](features/environment.py) na pasta [features](https://github.com/ginaldolaranjeiras/automacao_teste_magalu/tree/master/features).
 
 Você pode aplicar o padrão Page Objects criando [modelos](features/pages/magalu_page.py) e abstraindo os métodos de teste.
 
