@@ -105,7 +105,7 @@ Baixe o JDK e descompacte os arquivos dentro do diretório Program Files
 
 Baixe o gerenciador de pacotes [Scoop](https://scoop.sh/)
 
-Intale o Allure executando: _scoop install allure_
+Instale o Allure executando: _scoop install allure_
 
 ## Instale o [allure-behave](https://pypi.org/project/allure-behave/)
 
